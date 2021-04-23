@@ -10,7 +10,7 @@ Table of Contents
 - [Usage](##📐Usage)
 - [License](##📋License)
 - [Contributing](##📝Contributing)
-- [Screenshot](##📸 Screenshot)
+- [Screenshot](##📸Screenshot)
 
 
 ------------
@@ -40,6 +40,6 @@ Please click on the following link to view a summary of this license:
 sungjk@uw.edu
 
 ------------
-## 📸 Screenshot
-![alt text](https://raw.githubusercontent.com/sungjk77/hw06---Server-Side-APIs-Weather-Dashboard/main/assets/images/screenshot.JPG)
+## 📸Screenshot
+![alt text](https://github.com/sungjk77/hw11-Note-Taker/blob/master/Assets/screenshot.JPG)
 
